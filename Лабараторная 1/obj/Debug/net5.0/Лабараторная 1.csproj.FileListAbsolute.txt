@@ -1,0 +1,16 @@
+C:\Users\Студент\source\repos\Лабараторная 1\bin\Debug\net5.0\Лабараторная 1.exe
+C:\Users\Студент\source\repos\Лабараторная 1\bin\Debug\net5.0\Лабараторная 1.deps.json
+C:\Users\Студент\source\repos\Лабараторная 1\bin\Debug\net5.0\Лабараторная 1.runtimeconfig.json
+C:\Users\Студент\source\repos\Лабараторная 1\bin\Debug\net5.0\Лабараторная 1.runtimeconfig.dev.json
+C:\Users\Студент\source\repos\Лабараторная 1\bin\Debug\net5.0\Лабараторная 1.dll
+C:\Users\Студент\source\repos\Лабараторная 1\bin\Debug\net5.0\ref\Лабараторная 1.dll
+C:\Users\Студент\source\repos\Лабараторная 1\bin\Debug\net5.0\Лабараторная 1.pdb
+C:\Users\Студент\source\repos\Лабараторная 1\obj\Debug\net5.0\Лабараторная 1.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\Лабараторная 1\obj\Debug\net5.0\Лабараторная 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\source\repos\Лабараторная 1\obj\Debug\net5.0\Лабараторная 1.AssemblyInfoInputs.cache
+C:\Users\Студент\source\repos\Лабараторная 1\obj\Debug\net5.0\Лабараторная 1.AssemblyInfo.cs
+C:\Users\Студент\source\repos\Лабараторная 1\obj\Debug\net5.0\Лабараторная 1.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\Лабараторная 1\obj\Debug\net5.0\Лабараторная 1.dll
+C:\Users\Студент\source\repos\Лабараторная 1\obj\Debug\net5.0\ref\Лабараторная 1.dll
+C:\Users\Студент\source\repos\Лабараторная 1\obj\Debug\net5.0\Лабараторная 1.pdb
+C:\Users\Студент\source\repos\Лабараторная 1\obj\Debug\net5.0\Лабараторная 1.genruntimeconfig.cache

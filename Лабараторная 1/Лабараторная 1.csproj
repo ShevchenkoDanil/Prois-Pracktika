@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Лабараторная_1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Студент\AppData\Roaming\Microsoft\Windows\Network Shortcuts\Лаба 1.cs" Link="Лаба 1.cs" />
+    <Compile Include="C:\Users\Студент\Desktop\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
